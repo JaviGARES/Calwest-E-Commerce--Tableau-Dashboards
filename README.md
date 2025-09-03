@@ -33,7 +33,7 @@ The project can be divided into four main sections:
 
 **Screenshot:**  
 <p align="center">
-  <img src="images/Calwest_Performance_summary_dashboard.JPG" alt="Performance Summary Dashboard" width="400"/>
+  <img src="images/Calwest_performance_summary_dashboard.JPG" alt="Performance Summary Dashboard" width="400"/>
 </p>
 
 ---
@@ -55,7 +55,7 @@ The project can be divided into four main sections:
 
 **Screenshot:**  
 <p align="center">
-  <img src="images/Calwest_Regional_performance_dashboard.JPG" alt="Regional Performance Dashboard" width="400"/>
+  <img src="images/Calwest_regional_performance_dashboard.JPG" alt="Regional Performance Dashboard" width="400"/>
 </p>
 
 ---
