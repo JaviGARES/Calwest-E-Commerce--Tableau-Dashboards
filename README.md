@@ -69,5 +69,5 @@ The project can be divided into four main sections:
 
 ## View Dashboards
 You can explore the visuals and interactive dashboards on **Tableau Public**:  
-[Open in Tableau Public](https://public.tableau.com/views/CalwestE-CommerceProyect/PerformanceDashboard?:language=es-ES&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+[Open in Tableau Public](https://public.tableau.com/views/CalwestE-CommerceProject/PerformanceDashboard?:language=es-ES&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
